@@ -35,8 +35,8 @@ Meu foco principal neste momento é **expandir meus conhecimentos** e **explorar
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tsuk1i1&show_icons=true&theme=midnight-purple" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuk1i1&layout=compact&theme=midnight-purple" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tsk1i1&show_icons=true&theme=midnight-purple" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsk1i1&layout=compact&theme=midnight-purple" />
 </div>
 
 
